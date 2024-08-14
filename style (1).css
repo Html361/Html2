@@ -1,0 +1,53 @@
+html { 
+  height: 100%;
+  width:100%;
+  background-color:lightskyblue;
+}
+
+
+h1{
+  color:black;
+}
+
+p{
+   font-family: "Lucida Console", "Courier New", monospace;
+}
+
+
+p{
+  color:mediumblue;
+}
+
+a{
+  border:2px solid black;
+}
+
+.top{
+  background-color:lightcyan;
+  border:2px solid: lightcyan;
+}
+
+
+.paragraph{
+  background-color:lightcyan;
+  border:2px solid:  lightcyan;
+}
+.middle{
+  background-color: lightcyan;
+  border:2px solid:  lightcyan;
+}
+
+a:hover{
+background-color: white;
+color:dodgerblue
+}
+.middle:hover {
+  rotate: 360deg;
+  transition: rotate 2s;
+  
+}
+p:hover {
+  background-color: white;
+  color:mediumblue
+}
+
